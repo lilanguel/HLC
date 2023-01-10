@@ -1,0 +1,1 @@
+print("Nombre","es","Ignatius",sep=" ** ")
